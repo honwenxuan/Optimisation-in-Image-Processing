@@ -1,2 +1,2 @@
-# Optimisation_in_Image_Processing
+# Optimisation in Image Processing
 My final year project
